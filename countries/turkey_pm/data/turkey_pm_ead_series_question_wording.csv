@@ -1,0 +1,9 @@
+Country,Series,Description,Question Type,Question Wording,Method
+Turkey_PM,A&G,A and G Research Company,Approval,,
+Turkey_PM,GALLUPAPPROVAL,Gallup,Approval,Do you approve or disapprove of the way Recep Tayyip Erdogan is handing his job as prime minister?,
+Turkey_PM,KONSENSUS_PM,Konsensus Başbakan/cumhurbaşkanı Erdoğan'ın siyasi performansı (Political performance of president/prime minister Erdoğan),Performance,"As far as you followed, can you state to what extent you like or dislike performence of Prime Minister Recep Tayyip Erdoğan?",
+Turkey_PM,MAK,Mak Hükümet başarısı (success of government),Success,Do you find the 63rd government led by Prime Minister Ahmet Davutoğlu? (Ahmet DAVUTOĞLU Başbakanlığındaki 63. TC Hükümetini başarılı buluyor musunuz?),
+Turkey_PM,METROPOLL_PM,Metropoll Liderlerin Görev Onayı (Leaders' Job Approval),Approval,"Considering in general, are you approving or disapproving the way R. Tayyip Erdogan is handling his job as Prime Minister/President / Genel olarak düşündüğünüzde R. Tayyip Erdoğan'ın Başbakanlık/Cumhurbaşkanlığı Görevini Yapış Tarzını Onaylıyor musunuz?",Telephone
+Turkey_PM,PEWPMFAVOURABILITY,Pew Research Center (Prime Minister favorability),Favorability ,Favourable vx. Unfavorable opinion ofo ,
+Turkey_PM,PEWPMINFLUENCE,Pew Research Center (Prime Minister influence),Opinion,"Here is a list of groups, organizations and institutions. For each, please tell me what kind of influence the group is having on the way things are going in our country. Is the influence of the Prime Minister/President very good, somewhat good, somewhat bad or very bad in our country?",
+Turkey_PM,PEWPRESFAVOURABILITY,Pew Research Center (President favorability),Favorability ,Favourable vx. Unfavorable opinion of President,
